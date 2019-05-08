@@ -1,6 +1,7 @@
 body {
     background-color: palevioletred;
-    background-image: linear-gradient(pink, purple)
+    background-image: linear-gradient(pink, purple);
+    height: 100%;
 }
         
 h1 {
