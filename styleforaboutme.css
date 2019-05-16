@@ -9,4 +9,9 @@ h1 {
     font-family: 'Berkshire Swash', cursive;
     }        
     
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
     
