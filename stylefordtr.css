@@ -14,10 +14,10 @@ ul {
 }
 
 li {
-  float: left;
+    display: inline-block;
 }
 
-a {
+nav > a {
   padding-right: 2rem;
   padding-left: 2rem;
   
