@@ -23,9 +23,9 @@ li {
     display: inline-block;
 }
 
-nav > a {
+
+nav li {
     
-  padding-right: 2rem;
-  padding-left: 2rem;
-  
+    margin-right: 10px;
+       
 }

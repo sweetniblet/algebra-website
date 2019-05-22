@@ -23,8 +23,8 @@ li {
     display: inline-block;
 }
 
-nav > a {
-  padding-right: 2rem;
-  padding-left: 2rem;
-  
+nav li {
+    
+    margin-right: 10px;
+       
 }
