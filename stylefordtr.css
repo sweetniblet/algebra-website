@@ -13,12 +13,8 @@ ul {
   padding: 0;
 }
 
-li {
+nav li {
     display: inline-block;
+    margin-right: 10px;
 }
 
-nav li {
-    
-    margin-right: 10px;
-       
-}
