@@ -21,7 +21,28 @@ ul {
 
 nav li {
     display: inline-block;
-     margin-right: 10px;
+    margin-right: 10px;
 }
 
 
+.titles {
+     line-height: 0px;
+    font-size: 30px;
+    color: darkblue;
+}
+
+.titlediv {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.infodiv {
+    font-size: 22px;
+    color: black;
+    line-height: 18px;
+    
+}
+
+h3 {
+    margin-top: 50px
+}
