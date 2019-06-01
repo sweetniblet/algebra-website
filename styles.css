@@ -26,9 +26,10 @@ nav li {
 
 
 .titles {
-     line-height: 0px;
-    font-size: 30px;
+     line-height: 5px;
+    font-size: 27px;
     color: darkblue;
+    font-family: 'Pacifico', cursive;
 }
 
 .titlediv {
