@@ -7,10 +7,6 @@ h1 {
     font-family: 'Berkshire Swash', cursive;
     }
 
-h3 {
-    color: black;
-}
-
 ul {
   list-style-type: none;
   margin: 0;
@@ -20,4 +16,26 @@ ul {
 nav li {
     display: inline-block;
     margin-right: 10px;
+}
+
+
+.circle {
+    position: relative;
+    background-color: palevioletred;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    
+}
+
+.circletext {
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 30px;
+    color: white;
+    font-family: cursive;
+}
+
+h3 {
+    color: black;
 }
