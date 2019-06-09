@@ -1,0 +1,49 @@
+body {
+    background-color: whitesmoke;
+    height: 100%;
+}
+h1 {
+    color:violet;
+    font-family: 'Berkshire Swash', cursive;
+    }
+
+h2 {
+    color: black;
+    font-family: cursive;
+        
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+
+.titles {
+     line-height: 5px;
+    font-size: 27px;
+    color: darkblue;
+    font-family: 'Pacifico', cursive;
+}
+
+.titlediv {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.infodiv {
+    font-size: 22px;
+    color: black;
+    line-height: 18px;
+    
+}
+
+h3 {
+    margin-top: 50px
+}
